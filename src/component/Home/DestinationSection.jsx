@@ -8,10 +8,10 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 // Import Swiper styles
 import 'swiper/css';
 import 'swiper/css/pagination';
+import { Pagination } from 'swiper/modules';
 
 import './DestinationSection.css'
 
-import { Pagination } from 'swiper/modules';
 import destination1 from '../../assets/home/destination.png'
 import destination2 from '../../assets/home/destination2.png'
 import destination3 from '../../assets/home/destination3.png'

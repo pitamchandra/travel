@@ -6,7 +6,7 @@ const Banner = () => {
 
 
     return (
-        <div className="banner-section py-32 md:py-20">
+        <div className="banner-section py-32 md:py-20 rounded-bl-3xl rounded-br-3xl">
             <div className="container mx-auto">
                 <div className="">
                     <div className=''>
