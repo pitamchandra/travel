@@ -1,0 +1,9 @@
+.swiper-wrapper{
+    padding-bottom: 40px;
+}
+.swiper-wrapper:nth-child(even){
+    margin-top: 20px;
+}
+.swiper-pagination-bullet-active{
+    background-color: #FB4F55;
+}

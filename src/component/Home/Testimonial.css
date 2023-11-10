@@ -1,0 +1,17 @@
+
+.testimonial{
+    background: url('../../assets/home/testimonial-bg.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.swiper-wrapper{
+    padding-bottom: 80px;
+}
+.swiper-wrapper:nth-child(even){
+    margin-top: 20px;
+}
+.swiper-pagination-bullet-active{
+    background-color: #FB4F55;
+}
